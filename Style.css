@@ -1,11 +1,10 @@
 html {
-    cor : aliceblue;
-    plano de fundo : (https://www.igrejavideira.com.br/wp-content/uploads
-    /2023/02/Captura-de-Tela-2023-02-03-a%CC%80s-15.03.39-900x617.png);
-    tamanho do plano de fundo :  80 % ;
-    repetição de fundo : sem repetição;
-    posição de fundo-y :  10 % ;
-    background-position-x : centro;
-    estilo da fonte : negrito;
-    tamanho do plano de fundo : capa;
+    color: aliceblue;
+    background:(https://www.igrejavideira.com.br/wp-content/uploads/2023/02/Captura-de-Tela-2023-02-03-a%CC%80s-15.03.39-900x617.png);
+    background-size: 80%;
+    background-repeat: no-repeat;
+    background-position-y: 10%;
+    background-position-x: center;
+    font-style: bold;
+    background-size: cover;
 }
