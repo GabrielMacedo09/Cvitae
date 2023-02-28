@@ -1,5 +1,5 @@
 html {
-    color: aliceblue;
+    color: rgb(0, 0, 0);
     background:(https://www.igrejavideira.com.br/wp-content/uploads/2023/02/Captura-de-Tela-2023-02-03-a%CC%80s-15.03.39-900x617.png);
     background-size: 80%;
     background-repeat: no-repeat;
@@ -7,4 +7,8 @@ html {
     background-position-x: center;
     font-style: bold;
     background-size: cover;
+}
+
+body {
+    text-align:center;
 }
